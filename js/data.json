@@ -1,0 +1,103 @@
+{
+  "calendar": [
+    {
+      "weekday": "Monday",
+      "title": "Playlist 1: Eternal Music of the Sleepless Mind",
+      "description": "The first day of the week deserves its own personal awakening and shaky music playlist. Share the vibes but keep the loves with your loved ones, beloved passengers and the entire road network for better safety. Enjoy!",
+      "schedule": [
+        {
+          "time": "9:30-10:30am",
+          "shortname": "nirvana_93",
+          "artist": "Nirvana",
+          "room": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+          "description": "Listen to Nirvana, fall 93, on earth and in the air of GetApp Radio, perfect for tiredness, deezyness, drowsyness and most words on 'ness'.",
+          "title": "Smells Like Teen Spirit"
+        }, {
+          "time": "11:00am-1pm",
+          "shortname": "Omar_Ion",
+          "name": "Omarion",
+          "room": "https://www.youtube.com/watch?v=qXLgNktxbGg",
+          "description": "Omarion unveils the first visual from his most recent project. Ideal for little drowsyness and need of morning caffeine shake. Musical wake-up call on the way",
+          "title": "#CP2"
+        },{
+          "time": "11:00am-1pm",
+          "shortname": "Sade",
+          "name": "Sade",
+          "room": "https://www.youtube.com/watch?v=fE3-BpOM5RY",
+          "description": "Sade rocks it.. her music has always been one of favorites artists from 80s-90s. For jazzy & smooth atmospheres and relax ambiance",
+          "title": "Smooth Operator"
+        }
+      ]
+    }, {
+      "weekday": "Tuesday",
+      "title": "Playlist 2: Water in Motion to Take you to a Quiet place",
+      "description": "Water in Motion is the theme for the second day, as drivers and passengers from around the world gather at the Fountain of Intrigue in the traffic of Big City to create the immuable snake-shaped vehicle queue in the waiting of quieter moments.",
+      "schedule": [
+        {
+          "time": "8:30am-10:30pm",
+          "shortname": "Omar_Ion",
+          "name": "Omarion",
+          "room": "https://www.youtube.com/watch?v=qXLgNktxbGg",
+          "description": "Omarion unveils the first visual from his most recent project. Ideal for little drowsyness and need of morning caffeine shake. Musical wake-up call on the way",
+          "title": "#CP2"
+        },{
+          "time": "10:30am-1pm",
+          "shortname": "Sade",
+          "name": "Sade",
+          "room": "https://www.youtube.com/watch?v=fE3-BpOM5RY",
+          "description": "Sade rocks it.. her music has always been one of favorites artists from 80s-90s. For jazzy & smooth atmospheres and relax ambiance",
+          "title": "Smooth Operator"
+        },{
+          "time": "4pm-6:30pm",
+          "shortname": "nirvana_93",
+          "artist": "Nirvana",
+          "room": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+          "description": "Listen to Nirvana, fall 93, on earth and in the air of GetApp Radio, perfect for tiredness, deezyness, drowsyness and most words on 'ness'.",
+          "title": "Smells Like Teen Spirit"
+        }
+      ]
+    }, {
+      "weekday": "Wednesday",
+      "schedule": [
+        {
+          "time": "9:30 to 10:30 am",
+          "shortname": "",
+          "artist": "",
+          "room": "",
+          "description": "",
+          "title": ""
+        },{
+          "time": "10:30 to 12:30 pm",
+          "shortname": "",
+          "artist": "",
+          "room": "",
+          "description": "",
+          "title": ""
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "bio": "Average ambient temperature at 23°. Adjusted if it goes above or below a pre-fixed range",
+      "shortname": "Temp",
+      "name": "Temperature",
+      "reknown": "Temperature (°) from the inside of the cabin"
+    },{
+      "bio": "Trigers the speed regulation of the vehicle along the way. Its frequency can potentially determine the one's awakeness",
+      "shortname": "Brake",
+      "name": "Brake pressure",
+      "reknown": "Acts on the wheel to reduce its revolution"
+    },{
+      "bio": "Out of a certain range, either due to the pressure of the brake, lack of fuel or environmental factors, value diminishes until regulation mechanism and back to normal",
+      "shortname": "Speedo",
+      "name": "Speedometer",
+      "reknown": "Measures the estimated vehicle average speed"
+    },{
+      "bio": "Hard core if falling asleep, smooth if in a good place, music impacts driver's aptitude to keep control of the vehicle. Well-rested and relaxed driver, happy passengers and safe roads",
+      "shortname": "Zik",
+      "name": "Music",
+      "reknown": "Music keeps the hears open and the mind awake"
+    }
+  ]
+}
